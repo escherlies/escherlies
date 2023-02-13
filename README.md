@@ -1,4 +1,6 @@
-<a href="https://binaryplease.com/"><img src="images/Header.svg" width="300" align="right"></img></a>
+<a href="https://binaryplease.com/"><img src="images/Header.9a2b0d0.svg" width="300" align="right"></img></a>
+
+</br>
 
 Hi there λ.λ
 
