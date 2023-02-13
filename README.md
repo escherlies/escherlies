@@ -8,7 +8,7 @@ how can I help you? λ.λ
 
 Founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
 
-We build scalable, maintainable apps using purely functional programming.
+Our focus is on creating scalable, high-quality web applications, starting from conceptualization to the final delivery, utilizing purely functional programming.
 
 ## Stack[^1]
 
