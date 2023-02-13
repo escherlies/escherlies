@@ -12,7 +12,7 @@ We build scalable, maintainable apps using purely functional programming.
 
 ## Stack[^1]
 
-<p align="center">
+<p>
 <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40">
 &nbsp;<img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40">
 &nbsp;<img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="40">
