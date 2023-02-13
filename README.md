@@ -8,11 +8,11 @@ how can I help you? λ.λ
 
 Founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
 
-We build scalable, maintainable apps using purely functional programming
+We build scalable, maintainable apps using purely functional programming.
 
 ## Stack[^1]
 
-<p>
+<p align="center">
 <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40">
 &nbsp;<img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40">
 &nbsp;<img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="40">
