@@ -1,14 +1,14 @@
 <a href="https://binaryplease.com/"><img src="images/Header.svg" width="300" align="right"></img></a>
 
-Hi there,
+Hi there λ.λ
 
-how can I help you? λ.λ
+how can I help you?
 
 ## About
 
 Founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
 
-Our focus is on creating scalable, high-quality web applications, starting from conceptualization to the final delivery, utilizing purely functional programming.
+Our focus is on creating scalable, high-quality web applications, utilizing **purely functional programming**.
 
 ## Stack[^1]
 
