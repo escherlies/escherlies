@@ -38,7 +38,7 @@ Some of the recent projects I've been working on.
     </tr>
      <tr>
         <td>
-          <a href="https://hyhyve.com">
+          <a href="https://www.hyhyve.com">
            <img src="images/hyhyve.svg" height="40px">
           </a>
         </td>
@@ -135,7 +135,7 @@ Some of the recent projects I've been working on.
     <tr></tr>
     <tr>
         <td><a href="https://github.com/escherlies/elm-ui-window">elm-ui-window</a></td>
-        <td>An resizeable, draggable window engine for Elm. Used in <a href="https://binaryplease.com/">Binary Please</a> and <a href="https://hyhyve.com">HyHyve</a></td>
+        <td>An resizeable, draggable window engine for Elm. Used in <a href="https://binaryplease.com/">Binary Please</a> and <a href="https://www.hyhyve.com">HyHyve</a></td>
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
