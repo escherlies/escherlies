@@ -1,4 +1,4 @@
-<a href="https://binaryplease.com/"><img src="images/Header.9a2b0d0.svg" width="300" align="right"></img></a>
+<a href="https://binaryplease.com/"><img src="./images/Header.9a2b0d0.svg" width="300" align="right"></img></a>
 
 Hi there λ.λ
 
@@ -16,7 +16,7 @@ Our focus is on creating scalable, high-quality web applications, utilizing **pu
 <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40">
 &nbsp;<img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40">
 &nbsp;<img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="40">
-&nbsp;<picture><source media="(prefers-color-scheme: light)" srcset="images/ps-original.svg"><source media="(prefers-color-scheme: dark)" srcset="images/ps-original-light.svg"><img title="PureScript" alt="purescript-logo" src="images/ps-original.svg" width="40"></picture>
+&nbsp;<picture><source media="(prefers-color-scheme: light)" srcset="./images/ps-original.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/ps-original-light.svg"><img title="PureScript" alt="purescript-logo" src="./images/ps-original.svg" width="40"></picture>
 &nbsp;<img title="TypeScript" alt="typescript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
 &nbsp;<img title="JavaScript" alt="javascript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
 &nbsp;<img title="NodeJS" alt="nodejs-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
@@ -39,7 +39,7 @@ Some of the recent projects I've been working on.
      <tr>
         <td>
           <a href="https://www.hyhyve.com">
-           <img src="images/hyhyve.svg" height="40px">
+           <img src="./images/hyhyve.svg" height="40px">
           </a>
         </td>
         <td>
@@ -59,9 +59,9 @@ Some of the recent projects I've been working on.
         <td>
           <a href="https://coffeechat.ai">
           <picture>
-            <source media="(prefers-color-scheme: light)" srcset="images/coffee_chat_ai_logo_full_dark.07f5b22.svg">
-            <source media="(prefers-color-scheme: dark)" srcset="images/coffee_chat_ai_logo_full_light.30d9e27.svg">
-            <img src="images/coffee_chat_ai_logo_full_dark.07f5b22.svg" height="45px">
+            <source media="(prefers-color-scheme: light)" srcset="./images/coffee_chat_ai_logo_full_dark.07f5b22.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="./images/coffee_chat_ai_logo_full_light.30d9e27.svg">
+            <img src="./images/coffee_chat_ai_logo_full_dark.07f5b22.svg" height="45px">
           </picture>
           </a>
         </td>
