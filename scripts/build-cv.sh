@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 OUT="CV.md"
 
 echo "<!-- Generated -->" >$OUT
@@ -10,4 +12,4 @@ cat src/Stack.md >>$OUT
 cat src/Projects.md >>$OUT
 cat src/Footer.md >>$OUT
 
-sed -i '' -e 's/\.\.\/images/\.\/images/g' "$OUT"
+bash scripts/replace-image-paths.sh $OUT

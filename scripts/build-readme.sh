@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -euo pipefail
+
 OUT="README.md"
 
 echo "<!-- Generated -->" >$OUT
@@ -8,4 +10,4 @@ cat src/About.md >>$OUT
 cat src/Stack.md >>$OUT
 cat src/Projects.md >>$OUT
 
-sed -i '' -e 's/\.\.\/images/\.\/images/g' "$OUT"
+bash scripts/replace-image-paths.sh $OUT
