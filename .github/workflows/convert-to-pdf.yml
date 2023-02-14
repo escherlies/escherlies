@@ -11,7 +11,7 @@ jobs:
         run: |
           ls -la ${{ github.workspace }}
       - name: Run gen-cv script
-        run: .github/scripts/gen-cv.sh
+        run: bash .github/scripts/gen-cv.sh
         shell: bash
       - uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
