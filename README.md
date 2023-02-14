@@ -28,6 +28,7 @@ Some of the recent projects I've been working on.
 
 <table>
     <tr>
+      <td colspan="4">Projects</td>
     </tr>
     <tr>
         <td colspan="2"><b>Enterprise Applications</b></td>
@@ -71,7 +72,7 @@ Some of the recent projects I've been working on.
     </tr>
        <tr>
         <td colspan="2" ><b>Open Source</b></td>
-        <td>Stack</td>
+        <td>Lang</td>
         <td>Type</td>
     </tr>
     <tr>
