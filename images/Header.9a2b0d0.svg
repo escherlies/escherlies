@@ -42,8 +42,9 @@
       .t {
         transform-origin: 285.25px 298.16px;
         animation-name: blink;
-        animation-duration: 4s;
+        animation-duration: 3s;
         animation-delay: 0;
+        animation-direction: reverse;
         animation-iteration-count: infinite;
         transform: scaleY(1);
       }
