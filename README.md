@@ -5,7 +5,7 @@ how can I help you?
 
 ## About
 
-Co-Founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
+I'm the co-founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
 
 Our focus is on creating scalable, high-quality web applications, utilizing **functional programming**.
 
@@ -24,7 +24,7 @@ Our focus is on creating scalable, high-quality web applications, utilizing **fu
 
 ## Projects
 
-Some of the recent projects I've been working on.
+Some of the recent projects I build.
 
 <table>
     <tr>
