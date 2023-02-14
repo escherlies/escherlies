@@ -15,7 +15,7 @@ jobs:
         shell: bash
       - uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
-          input_path: cv.md
+          input_path: CV.md
           output_dir: pdfs
           images_dir: images
           image_import: ./images
