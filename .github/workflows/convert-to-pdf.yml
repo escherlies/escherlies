@@ -9,7 +9,10 @@ jobs:
       - uses: actions/checkout@v2
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          ls -la ${{ github.workspace }}
+      - name: Append README Footer
+        run: |
+          cat Footer.md >> README.md
       - uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: README.md

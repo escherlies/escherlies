@@ -1,16 +1,15 @@
 <a href="https://binaryplease.com/"><img src="./images/Header.9a2b0d0.svg" width="300" align="right"></img></a>
-
 Hi there λ.λ
 
 how can I help you?
 
 ## About
 
-Founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
+Co-Founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
 
-Our focus is on creating scalable, high-quality web applications, utilizing **purely functional programming**.
+Our focus is on creating scalable, high-quality web applications, utilizing **functional programming**.
 
-## Stack[^1]
+## Stack
 
 <p>
 <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40">
@@ -21,6 +20,7 @@ Our focus is on creating scalable, high-quality web applications, utilizing **pu
 &nbsp;<img title="JavaScript" alt="javascript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
 &nbsp;<img title="NodeJS" alt="nodejs-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
 </p>
+<sup>Elm, Haskell, NixOS, PureScript, TypeScript, JavaScript, NodeJS</sup>
 
 ## Projects
 
@@ -28,31 +28,27 @@ Some of the recent projects I've been working on.
 
 <table>
     <tr>
-        <td>Project</td>
-        <td>Description</td>
-        <td>Stack</td>
-        <td>Type</td>
     </tr>
     <tr>
-        <td colspan="4"><b>Production</b></td>
+        <td colspan="2"><b>Enterprise Applications</b></td>
+        <td colspan="2">Stack</td>
     </tr>
      <tr>
         <td>
           <a href="https://www.hyhyve.com">
-           <img src="./images/hyhyve.svg" height="40px">
+           <img src="./images/hyhyve.svg" width="100px">
           </a>
         </td>
         <td>
           Online networking that's fun!<br/>
           HyHyve is an online event and networking platform where you can create an engaging venue for your clients, co-workers, teammates, and community.
         </td>
-        <td>
+        <td colspan="2">
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
           <img title="TypeScript" alt="typescript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25">
           <img title="NodeJS" alt="nodejs-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25">
           <img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="25">
         </td>
-        <td>💻 App</td>
     </tr>
     <tr></tr>
     <tr>
@@ -61,32 +57,22 @@ Some of the recent projects I've been working on.
           <picture>
             <source media="(prefers-color-scheme: light)" srcset="./images/coffee_chat_ai_logo_full_dark.07f5b22.svg">
             <source media="(prefers-color-scheme: dark)" srcset="./images/coffee_chat_ai_logo_full_light.30d9e27.svg">
-            <img src="./images/coffee_chat_ai_logo_full_dark.07f5b22.svg" height="45px">
+            <img src="./images/coffee_chat_ai_logo_full_dark.07f5b22.svg" width="70">
           </picture>
           </a>
         </td>
         <td>We build meaningful business relationships across your company by arranging weekly 18-minute 1-on-1 CoffeeChats.</td>
-        <td>
+        <td colspan="2">
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
           <img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="25">
           <img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="25">
         </td>
-        <td>💻 App</td>
-    </tr>
-    <tr></tr>
-    <tr>
-      <td>Your Project</td>
-      <td>Let's see how we can realise your next project!</br>
-        <a href="https://www.linkedin.com/in/enricoscherlies/">
-          Drop me a message!
-        </a>
-      </td>
-      <td>tbd</td>
-      <td>tbd</td>
     </tr>
     </tr>
        <tr>
-        <td colspan="4" ><b>Open Source</b></td>
+        <td colspan="2" ><b>Open Source</b></td>
+        <td>Stack</td>
+        <td>Type</td>
     </tr>
     <tr>
         <td><a href="https://github.com/escherlies/bumpi">bumpi</a></td>
@@ -94,7 +80,7 @@ Some of the recent projects I've been working on.
         <td>
           <img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="25">
         </td>
-        <td>🛠️ Tool</td>
+        <td>Tool</td>
     </tr>
     <tr></tr>
     <tr>
@@ -103,7 +89,7 @@ Some of the recent projects I've been working on.
         <td>
           <img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="25">
         </td>
-        <td>🛠️ Tool</td>
+        <td>Tool</td>
     </tr>
     <tr></tr>
     <tr>
@@ -112,7 +98,7 @@ Some of the recent projects I've been working on.
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
-        <td><p>📦 Package</p></td>
+        <td><p>Package</p></td>
     </tr>
     <tr></tr>
     <tr>
@@ -121,7 +107,7 @@ Some of the recent projects I've been working on.
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
-        <td>📦 Package</td>
+        <td>Package</td>
     </tr>
     <tr></tr>
     <tr>
@@ -130,7 +116,7 @@ Some of the recent projects I've been working on.
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
-        <td>📦 Package</td>
+        <td>Package</td>
     </tr>
     <tr></tr>
     <tr>
@@ -139,12 +125,10 @@ Some of the recent projects I've been working on.
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
-        <td>🧪 Experimental</td>
+        <td>Experimental</td>
     </tr>
 </table>
 
 [hyhyve]: https://www.hyhyve.com/
 [chai]: https://coffeechat.ai
 
-
-[^1]: Elm, Haskell, NixOS, PureScript, TypeScript, JavaScript, NodeJS
