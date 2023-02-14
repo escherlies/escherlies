@@ -2,3 +2,7 @@ img {
   margin: unset;
   display: inline;
 }
+
+body {
+  font-size: 14px;
+}
