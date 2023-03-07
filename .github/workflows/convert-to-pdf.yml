@@ -10,9 +10,6 @@ jobs:
       - name: List files in the repository
         run: |
           ls -la ${{ github.workspace }}
-      - name: Run build-cv script
-        run: bash scripts/build-cv.sh
-        shell: bash
       - uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: CV.md
