@@ -31,7 +31,7 @@ Some of the recent open-source projects I build.
 
 <table>
     <tr>
-      <td colspan="4" style="text-align: center">Projects</td>
+      <td colspan="4" style="text-align: center"></td>
     </tr>
     </tr>
        <tr>
@@ -69,7 +69,7 @@ Some of the recent open-source projects I build.
     <tr></tr>
     <tr>
         <td><a href="https://package.elm-lang.org/packages/escherlies/elm-vectors/latest/">elm-vectors</a></td>
-        <td>The engine that powers this page.</td>
+        <td>Basic, fast linear algebra operations for working with vectors in Elm.</td>
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
