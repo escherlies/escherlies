@@ -109,4 +109,4 @@ APIs, BaaS (Firebase), Bash, C, CI/CD, Cloud/Lambda Functions, CMSs, Colemak-DH,
 
 ---
 
-You can view this cv online at https://github.com/escherlies/escherlies/blob/main/CV.md
+You can view this cv online at [https://github.com/escherlies/escherlies/blob/main/CV.md](https://github.com/escherlies/escherlies/blob/main/CV.md)
