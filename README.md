@@ -15,15 +15,16 @@ Our focus is on creating scalable, high-quality web applications, utilizing **fu
 ## Stack
 
 <p>
-<img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40">
-&nbsp;<img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40">
-&nbsp;<img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="40">
-&nbsp;<picture><source media="(prefers-color-scheme: light)" srcset="./images/ps-original.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/ps-original-light.svg"><img title="PureScript" alt="purescript-logo" src="./images/ps-original.svg" width="40"></picture>
-&nbsp;<img title="TypeScript" alt="typescript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
-&nbsp;<img title="JavaScript" alt="javascript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
-&nbsp;<img title="NodeJS" alt="nodejs-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
+<a href="https://elm-lang.org/"><img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40"></a>
+&nbsp;<a href="https://www.typescriptlang.org/"><img title="TypeScript" alt="typescript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"></a>
+&nbsp;<a href="https://nixos.org/"><img title="NixOS" alt="nixos-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="40"></a>
+&nbsp;<a href="https://bun.sh/"><img title="Bun" alt="bun-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" width="40"></a>
+&nbsp;<a href="https://www.purescript.org/"><picture><source media="(prefers-color-scheme: light)" srcset="./images/ps-original.svg"><source media="(prefers-color-scheme: dark)" srcset="./images/ps-original-light.svg"><img title="PureScript" alt="purescript-logo" src="./images/ps-original.svg" width="40"></picture></a>
+&nbsp;<a href="https://www.haskell.org/"><img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40"></a>
+&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img title="JavaScript" alt="javascript-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></a>
+&nbsp;<a href="https://nodejs.org/"><img title="NodeJS" alt="nodejs-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"></a>
 </p>
-<sup>Elm, Haskell, NixOS, PureScript, TypeScript, JavaScript, NodeJS</sup>
+<sup>Elm, TypeScript, Nix, Bun, PureScript, Haskell, JavaScript, NodeJS</sup>
 
 ## Projects
 
