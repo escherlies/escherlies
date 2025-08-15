@@ -1,18 +1,11 @@
 <!-- Generated -->
 <a href="https://binaryplease.com/"><img src="./images/Header.9a2b0d0.svg" width="300" align="right"></img></a>
-Hi there λ.λ
 
-how can I help you?
+Hello 👋,
 
+I'm Enrico, a Full-stack developer and co-founder at [**Binary Please**](https://binaryplease.com/), specializing in functional programming and web applications.
 
-## About
-
-I'm the co-founder and full-stack developer at [**Binary Please**](https://binaryplease.com/).
-
-Our focus is on creating scalable, high-quality web applications, utilizing **functional programming**.
-
-
-## Stack
+## Tech Stack
 
 <p>
 <a href="https://elm-lang.org/"><img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="40"></a>
@@ -26,9 +19,8 @@ Our focus is on creating scalable, high-quality web applications, utilizing **fu
 </p>
 <sup>Elm, TypeScript, Nix, Bun, PureScript, Haskell, JavaScript, NodeJS</sup>
 
-## Projects
 
-Some of the recent open-source projects I build.
+### Open-Source Projects
 
 <table>
     <tr>
@@ -87,3 +79,6 @@ Some of the recent open-source projects I build.
     </tr>
 </table>
 
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/enricoscherlies/)
