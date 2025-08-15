@@ -41,15 +41,6 @@ Some of the recent open-source projects I build.
         <td><b>Kind</b></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/escherlies/bumpi">bumpi</a></td>
-        <td>A get next semantic version bump cli tool</td>
-        <td>
-          <img title="Haskell" alt="haskell-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="25">
-        </td>
-        <td>Tool</td>
-    </tr>
-    <tr></tr>
-    <tr>
         <td><a href="https://github.com/escherlies/elm-generate-readme">elm-generate-readme</a></td>
         <td>Generate a README.md from an Elm file.</td>
         <td>
@@ -59,7 +50,16 @@ Some of the recent open-source projects I build.
     </tr>
     <tr></tr>
     <tr>
-        <td><a href="https://package.elm-lang.org/packages/escherlies/elm-color/latest/">elm-color</a></td>
+        <td><a href="https://github.com/escherlies/elm-ui-window">elm-ui-window</a></td>
+        <td>An resizeable, draggable window engine for Elm. Used in <a href="https://binaryplease.com/">Binary Please</a> and <a href="https://www.hyhyve.com">HyHyve</a></td>
+        <td>
+          <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
+        </td>
+        <td>Experimental</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td><a href="https://github.com/escherlies/elm-color">elm-color</a></td>
         <td>An Elm package to work with web colors.</td>
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
@@ -68,7 +68,7 @@ Some of the recent open-source projects I build.
     </tr>
     <tr></tr>
     <tr>
-        <td><a href="https://package.elm-lang.org/packages/escherlies/elm-vectors/latest/">elm-vectors</a></td>
+        <td><a href="https://github.com/escherlies/elm-vectors">elm-vectors</a></td>
         <td>Basic, fast linear algebra operations for working with vectors in Elm.</td>
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
@@ -77,21 +77,12 @@ Some of the recent open-source projects I build.
     </tr>
     <tr></tr>
     <tr>
-        <td><a href="https://package.elm-lang.org/packages/escherlies/elm-ix-dict/latest/">elm-ix-dict</a></td>
+        <td><a href="https://github.com/escherlies/elm-ix-dict">elm-ix-dict</a></td>
         <td>A Dict data structure that derives keys from values.</td>
         <td>
           <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
         </td>
         <td>Package</td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td><a href="https://github.com/escherlies/elm-ui-window">elm-ui-window</a></td>
-        <td>An resizeable, draggable window engine for Elm. Used in <a href="https://binaryplease.com/">Binary Please</a> and <a href="https://www.hyhyve.com">HyHyve</a></td>
-        <td>
-          <img title="Elm" alt="elm-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elm/elm-original.svg" width="25">
-        </td>
-        <td>Experimental</td>
     </tr>
 </table>
 
