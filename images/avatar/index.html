@@ -2,10 +2,10 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>escherlies — avatar candidates</title>
 <style>
-  :root{--paper:#f3ede1;--ink:#16130f;--violet:#9a63ff}
+  :root{--paper:#f3ede1;--ink:#16130f;--blue:#1f3bff}
   *{box-sizing:border-box;margin:0}
   body{background:var(--paper);color:var(--ink);font:15px/1.5 "Fira Code",ui-monospace,monospace;padding:48px 32px}
-  h1{font-weight:400;font-size:20px} h1 b{color:var(--violet);font-weight:400}
+  h1{font-weight:400;font-size:20px} h1 b{color:var(--blue);font-weight:400}
   p.lede{max-width:60ch;margin:8px 0 40px;opacity:.75}
   .row{display:grid;grid-template-columns:220px 1fr 1fr;gap:28px;align-items:center;padding:28px 0;border-top:1.5px solid var(--ink)}
   .big{width:220px;height:220px;border-radius:50%;border:1px solid #0002}
@@ -14,18 +14,18 @@
   .gh img{border-radius:50%;box-shadow:0 0 0 1px #8883}
   .gh span{font:13px/1.3 -apple-system,"Segoe UI",sans-serif}
   .name{grid-column:1/-1;font-size:13px}
-  .name b{font-weight:400;color:var(--violet)}
+  .name b{font-weight:400;color:var(--blue)}
   @media(max-width:760px){.row{grid-template-columns:1fr}.big{width:160px;height:160px}}
 </style></head><body>
 <h1>escher<b>lies</b> — impossible λ</h1>
-<p class="lede">A lambda that only holds together if you don't check the joints. Two-block woodcut, black key + #9a63ff. Each candidate shown circle-cropped as GitHub renders it, then at 40px and 20px on GitHub's light and dark themes.</p>
+<p class="lede">A lambda that only holds together if you don't check the joints. Two-block woodcut, black key + binp-brand blue #1F3BFF. Each candidate shown circle-cropped as GitHub renders it, then at 40px and 20px on GitHub's light and dark themes.</p>
 <div id="rows"></div>
 <script>
 const c=[
- ["lambda-nb-v2.jpg","nano-banana pro · hero","heaviest carving, misregistered violet, the crossing reads as a twist"],
- ["lambda-gpt-v2.png","gpt-image · hero","most legible impossibility: the top hook sits both behind and over the long stroke; lighter, airier"],
- ["lambda-nb-v1.jpg","nano-banana · rough","fine hatching, violet as the dominant colour, joint only hinted"],
- ["lambda-gpt-v1.png","gpt-image · rough","cleanest, most typographic λ; violet strongest; barely impossible"],
+ ["lambda-nb-v2-blue.jpg","nano-banana pro · hero","heaviest carving, misregistered blue, the crossing reads as a twist"],
+ ["lambda-gpt-v2-blue.png","gpt-image · hero","most legible impossibility: the top hook sits both behind and over the long stroke; lighter, airier"],
+ ["lambda-nb-v1-blue.jpg","nano-banana · rough","fine hatching, blue as the dominant colour, joint only hinted"],
+ ["lambda-gpt-v1-blue.png","gpt-image · rough","cleanest, most typographic λ; blue strongest; barely impossible"],
 ];
 document.getElementById('rows').innerHTML=c.map(([f,n,d])=>`
 <div class="row"><div class="name"><b>${f}</b> — ${n} — ${d}</div>
